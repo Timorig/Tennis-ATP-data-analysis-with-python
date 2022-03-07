@@ -11,6 +11,8 @@ Here the data exploration is performed on:
 - match results
 - tournaments 
 
+(work is still in progress!)
+
 I hope that you find my work insightful and interesting!
 Thank you for your feedback!
 
